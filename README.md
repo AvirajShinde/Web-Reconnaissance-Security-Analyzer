@@ -32,7 +32,7 @@ CLI-based Website Reconnaissance & Vulnerability Scanner. A powerful Python tool
 
 ```bash
 git clone https://github.com/AvirajShinde/Web-Reconnaissance-Security-Analyzer.git
-cd recon-scanner
+cd Web-Reconnaissance-Security-Analyzer
 ```
 
 ---
