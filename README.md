@@ -31,7 +31,7 @@ CLI-based Website Reconnaissance & Vulnerability Scanner. A powerful Python tool
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/AvirajShinde/recon-scanner.git
+git clone https://github.com/AvirajShinde/Web-Reconnaissance-Security-Analyzer.git
 cd recon-scanner
 ```
 
